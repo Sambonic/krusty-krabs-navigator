@@ -1,6 +1,6 @@
 # Krusty Krabs Navigator
 
-A simulation of intelligent robot agents inspired by Mr. Krabs from SpongeBob SquarePants that collect money dropped by customers at the Krusty Krab restaurant. The system implements environment mapping, pathfinding algorithms, and multi-agent coordination for efficient navigation in a dynamic environment.
+The customers dropped their money and went on a rampage to find who stole it. This is the theme of this project where we designed an intelligent robot agent inspired by Mr. Krabs from SpongeBob SquarePants that collects money dropped by customers at the Krusty Krab restaurant. Mr.Krabs and his robot clone need to gather the money quickly before the angry customers find him. To achieve this, our agents map their environments, implement key AI path-planning algorithms, and account for dynamic rerouting, obstacle avoidance, and multi-agent coordination. 
 
 #### Last Updated: December 23rd, 2024
 ## Table of Contents

@@ -39,7 +39,7 @@ The environment is designed as a lore-accurate replica of the Krusty Krabs resta
 
 ### 1. Mapping
 
-![Screenshot one](images/misc/mapping_stage.png)
+![Env during mapping]([images/misc/mapping_stage.png](https://github.com/Sambonic/krusty-krabs-navigator/blob/main/images/misc/mapping_stage.PNG))
 
 - 2D occupancy grid representation
 - Inverse sensor model for probability calculation
@@ -48,7 +48,7 @@ The environment is designed as a lore-accurate replica of the Krusty Krabs resta
 
 ### 2. Path Planning Algorithms
 
-![Screenshot one](images/misc/running_stage.png)
+![Env after mapping]([images/misc/running_stage.png](https://github.com/Sambonic/krusty-krabs-navigator/blob/main/images/misc/running_stage.PNG))
 
 #### A* Algorithm
 - Heuristic-based pathfinding
